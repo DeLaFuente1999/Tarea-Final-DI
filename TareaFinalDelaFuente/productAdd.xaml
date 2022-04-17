@@ -41,7 +41,7 @@
         </StackPanel>
 
         <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="1">
-            <Label Style="{StaticResource label}" Content="Nombre del producto"></Label>
+            <Label Style="{StaticResource label}" Content="Nombre del producto jeje"></Label>
             <TextBox Style="{StaticResource estilo}" Width="360" Height="30" x:Name="nombreproducto"></TextBox>
         </StackPanel>
 
